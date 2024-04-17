@@ -1,9 +1,9 @@
 - 👋 Hi, I'm @RenardBleu and I'm French ^^
-- 👀 I am interested in IT
-- 🌱 I am currently learning json, java and react
+- 👀 I am interested in IT, design and drawn
+- 🌱 I am currently learning react
 - 💞️ I want to collaborate on the manufacture of a web server
 - 📫 How to reach me:
- discord (Renard Bleu # 4084) /
- twitter (@teamrenardbleu) /
- Mail (alexislabaste84100@gmail.com)
+ discord(renardbleu_of)/
+ twitter(@renardbleu_of)/
+ Mail(alexislabaste84100@gmail.com)
 
