@@ -1,9 +1,12 @@
-- 👋 Hi, I'm @RenardBleu and I'm French ^^
+# Hello I'm Renard Bleu 🦊😀
+
+- 🥖 Hi, I'm French man ^^
 - 👀 I am interested in IT, design and drawn
 - 🌱 I am currently learning react
-- 💞️ I want to collaborate on the manufacture of a web server
-- 📫 How to reach me:
- discord(renardbleu_of)/
- twitter(@renardbleu_of)/
- Mail(alexislabaste84100@gmail.com)
+- 💞️ I want to collaborate on the manufacture of a web site
+
+### 📫 How to reach me:
+- Twitter : @renardbleu_of
+- Discord : renardbleu_of
+- Par mail : alexislabaste84100@gmail.com
 
