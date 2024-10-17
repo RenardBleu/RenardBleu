@@ -10,3 +10,5 @@
 - Discord : renardbleu_of
 - Par mail : alexislabaste84100@gmail.com
 
+<a href="https://app.daily.dev/alexislabaste"><img src="https://api.daily.dev/devcards/v2/WR1JGCTgFDolaF5NoWA0a.png?type=default&r=kz8" width="356" alt="Alexis Labaste's Dev Card"/></a>
+
