@@ -8,5 +8,5 @@
 ### 📫 How to reach me:
 - Twitter : @renardbleu_of
 - Discord : renardbleu_of
-- Par mail : alexislabaste84100@gmail.com
+- Par mail : contact@teamrenard.fr
 
