@@ -1,8 +1,8 @@
 # Hello I'm Renard Bleu 🦊😀
 
 - 🥖 Hi, I'm French man ^^
-- 👀 I am interested in IT, design and drawn
-- 🌱 I am currently learning react
+- 👀 I am a full stack developer
+- 🌱 I am currently learning angular, Unity and flutter
 - 💞️ I want to collaborate on the manufacture of a web site
 
 ### 📫 How to reach me:
